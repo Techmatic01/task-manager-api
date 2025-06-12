@@ -14,8 +14,8 @@ A simple Laravel-based RESTful API for managing tasks with user authentication.
 
 1. **Clone the repository from GitHub**
    ```
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Techmatic01/task-manager-api.git
+   cd task-manager-api
    ```
 
 2. **Install dependencies**  
